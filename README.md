@@ -1,6 +1,8 @@
-# calculator
+# calculator using python's tkinter
 so i made this calculator with a friend of mine about a month ago. This was my first tkinter project so I thought why not save it here. This is a basic calculator with some scientific functions
-checkout my friend's version on his hithub @blurryface92
+checkout my friend's version on his [github] 
+[github]:https://github.com/blurryface92
 
-the .exe file of calculator.py was made with pyinstaller library.
 
+
+<a href=https://github.com/cocomo29><img src="https://img.shields.io/badge/-Follow%20me-blue" alt="github.com/cocomo29">
